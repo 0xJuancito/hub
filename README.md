@@ -2,4 +2,6 @@
 
 ## IPFS Gateways
 
-- **Cloudflare:** https://cloudflare-ipfs.com/ipfs/{hash}
+- **Infura:** https://cloudflare-ipfs.com/ipfs/{hash}
+- **Cloudflare:** https://infura-ipfs.io/ipfs/{hash}
+- **IPFS:** https://ipfs.io/ipfs/{hash}
