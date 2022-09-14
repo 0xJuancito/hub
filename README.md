@@ -1,2 +1,5 @@
-# web3-cheatsheet
-Web3 Cheatsheet
+# Web3 Cheatsheet
+
+## IPFS Gateways
+
+- **Cloudflare:** https://cloudflare-ipfs.com/ipfs/{hash}
