@@ -9,3 +9,11 @@
 ## Templates
 
 - [Hardhat](https://github.com/0xJuancito/hardhat-template)
+
+## Wallet
+
+- [RainbowKit](https://github.com/rainbow-me/rainbowkit)
+
+## Notifications
+
+- [React Notifications Component](https://github.com/teodosii/react-notifications-component)
