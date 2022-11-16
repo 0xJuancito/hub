@@ -17,3 +17,7 @@
 ## Notifications
 
 - [React Notifications Component](https://github.com/teodosii/react-notifications-component)
+
+## Data Validation
+
+- [Joi](https://github.com/hapijs/joi)
