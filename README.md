@@ -23,3 +23,13 @@
 ## Typescript
 
 - [Schema Validation](https://github.com/hapijs/joi) - Joi
+
+## Troubleshooting
+
+### Missing typing for Typescript
+
+Create a `index.d.ts` file with the declaration like: 
+
+```
+declare module "react-identicons";
+```
