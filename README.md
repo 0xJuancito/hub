@@ -16,6 +16,10 @@
 - [Popup](https://github.com/yjose/reactjs-popup)
 - [Wallet](https://github.com/rainbow-me/rainbowkit) - RainbowKit
 
+## Tailwind
+
+- [Components](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/documentation/download)
+
 ## Typescript
 
 - [Schema Validation](https://github.com/hapijs/joi) - Joi
