@@ -10,14 +10,12 @@
 
 - [Hardhat](https://github.com/0xJuancito/hardhat-template)
 
-## Wallet
+## React
 
-- [RainbowKit](https://github.com/rainbow-me/rainbowkit)
+- [Notifications](https://github.com/teodosii/react-notifications-component)
+- [Popup](https://github.com/yjose/reactjs-popup)
+- [Wallet](https://github.com/rainbow-me/rainbowkit) - RainbowKit
 
-## Notifications
+## Typescript
 
-- [React Notifications Component](https://github.com/teodosii/react-notifications-component)
-
-## Data Validation
-
-- [Joi](https://github.com/hapijs/joi)
+- [Schema Validation](https://github.com/hapijs/joi) - Joi
