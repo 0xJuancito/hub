@@ -14,6 +14,7 @@
 
 - [Notifications](https://github.com/teodosii/react-notifications-component)
 - [Popup](https://github.com/yjose/reactjs-popup)
+- [Upload Images](https://github.com/imagekit-developer/imagekit-react)
 - [Wallet](https://github.com/rainbow-me/rainbowkit) - RainbowKit
 
 ## Tailwind
